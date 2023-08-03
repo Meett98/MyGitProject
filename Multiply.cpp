@@ -4,8 +4,10 @@
 using namespace std;
 int main()
 {
-    int a = 5;
-    int b = 10;
+    int a ;
+    int b ;
 
+ cout<<"Enter the user input";
+    cin>> a>> b;
     cout<<"The Multiply is : "<<a*b;
 }
